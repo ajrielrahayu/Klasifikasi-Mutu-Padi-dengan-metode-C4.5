@@ -4,8 +4,8 @@ Padi merupakan makanan pokok di Indonesia, kualitas padi mempengaruhi harga penj
 
 Pengklasifikasian mutu padi dapat dilakukan dengan bantuan algoritma pengolahan data decision tree metode C4.5, dengan mengolah dataset padi yang sudah terklasifikasi sebelumnya , algoritma ini akan mudah mengklasifikasikan data padi baru yang ingin diklasifikasikan.
 
-Sourcode klasifikasi mutu padi : https://github.com/ajrielrahayu/Klasifikasi-Mutu-Padi-dengan-metode-C4.5/blob/main/Klasifikasi%20Mutu%20Padi%20metode%20C4.5.ipynb
+Sourcode klasifikasi mutu padi : [klasifikasi mutu padi dengan metode C4.5](https://github.com/ajrielrahayu/Klasifikasi-Mutu-Padi-dengan-metode-C4.5/blob/main/Klasifikasi%20Mutu%20Padi%20metode%20C4.5.ipynb)
 
-Dataset grade mutu padi : https://github.com/ajrielrahayu/Klasifikasi-Mutu-Padi-dengan-metode-C4.5/tree/main/Dataset
+Dataset grade mutu padi : [Dataset grade mutu padi](https://github.com/ajrielrahayu/Klasifikasi-Mutu-Padi-dengan-metode-C4.5/tree/main/Dataset)
 
-Decision tree mutu padi : https://github.com/ajrielrahayu/Klasifikasi-Mutu-Padi-dengan-metode-C4.5/blob/main/Decision%20tree%20klasifikasi%20mutu%20padi.pdf
+Decision tree mutu padi : [Gambar Decision tree mutu padi](https://github.com/ajrielrahayu/Klasifikasi-Mutu-Padi-dengan-metode-C4.5/blob/main/Decision%20tree%20klasifikasi%20mutu%20padi.pdf)
